@@ -3,8 +3,7 @@ import "./styles.css";
 document.getElementById("app").innerHTML = `
 <h1>What's up GitHub?</h1>
 <div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
+  I am testing out how to connect my CodeSandBox and my GitHub
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 `;
